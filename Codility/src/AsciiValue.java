@@ -16,9 +16,15 @@ public class AsciiValue {
     	  System.out.print((int)c);
       }
       
+      
+      
+      
       System.out.println("Text added");
+
       System.out.println("Some more videos");
-//      byte[] bytes = null;
+	
+	
+	//      byte[] bytes = null;
 //    try {
 //      bytes = text.getBytes("US-ASCII");
 //    } catch (UnsupportedEncodingException e) {
