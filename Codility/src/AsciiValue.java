@@ -17,7 +17,7 @@ public class AsciiValue {
       }
       
       System.out.println("Text added");
-      System.out.println("Some more text");
+      System.out.println("Some more videos");
 //      byte[] bytes = null;
 //    try {
 //      bytes = text.getBytes("US-ASCII");
